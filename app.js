@@ -137,7 +137,7 @@ function DetailsScreen({navigation}) {
          onChangeText={text => setPassword(text)}
         />
         <Button
-    title="Sign In"
+    title="Sign In to your account"
     onPress={__doLogin} 
   />
   <Button
